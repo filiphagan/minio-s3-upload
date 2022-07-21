@@ -16,7 +16,7 @@ In this example I'm running the MinIO server locally at port 9000.
 Launch the server and create a public bucket before running the script.
 
 --------------------------------
-Requirements: python 3.9+
+Requirements: python 3.10+
 
 Files:
 - s3_upload.py : the script
